@@ -1,0 +1,5 @@
+<?xml version = "1.0"?>
+<effect>
+    <emitter image="player_melee.png" frame="0" blend="add"
+             velx="200" vely="0"/>
+</effect>

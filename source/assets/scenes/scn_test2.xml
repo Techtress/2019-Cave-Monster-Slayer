@@ -1,0 +1,59 @@
+<?xml version = "1.0"?>
+<scene>
+  <collision>
+    <seg ax="105" ay="977.207" bx="1093.71" by="940.588" />
+    <seg ax="1093.71" ay="940.588" bx="2278.93" by="925.207" />
+  </collision>
+  <canvas>
+    <layer id="-1" scroll="0.95">
+      <backdropSet id="0" image="assets/backdrops/bkd_props.png" />
+      <bd set="0" frame="16" x="1053" y="881" scaleX="1" scaleY="1" angle="357.705" flipH="false" flipV="false" />
+      <bd set="0" frame="15" x="1294" y="874" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="14" x="822" y="892" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="15" x="1230" y="901" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="15" x="889" y="918" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="11" x="1107" y="854" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="963" y="852" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="9" x="1319" y="848" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="2" x="1065" y="858" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="1220" y="849" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="1106" y="862" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+    </layer>
+    <layer id="0" scroll="1">
+      <backdropSet id="0" image="assets/backdrops/bkd_props.png" />
+      <bd set="0" frame="9" x="1083" y="904" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="11" x="896" y="918" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="12" x="1334" y="895" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="15" x="1089" y="972" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="12" x="978" y="893" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="16" x="1260" y="947" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="14" x="980" y="962" scaleX="1" scaleY="1" angle="4.8795" flipH="false" flipV="false" />
+    </layer>
+    <layer id="1" scroll="1.05">
+      <backdropSet id="0" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_props.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_walls.png" />
+      <backdropSet id="3" image="assets/backdrops/bkd_vines.png" />
+      <bd set="0" frame="0" x="874" y="1012" scaleX="5.40427" scaleY="5.40427" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="14" x="1358" y="1045" scaleX="1.2639" scaleY="1.2639" angle="5.34319" flipH="false" flipV="false" />
+      <bd set="1" frame="14" x="919" y="1046" scaleX="1" scaleY="1" angle="12.4755" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="989" y="1076" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="16" x="1155" y="1017" scaleX="1.46134" scaleY="1.46134" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="15" x="1476" y="1016" scaleX="1.47523" scaleY="1.47523" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="1228" y="1093" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="1488" y="1067" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="2" x="1003" y="1130" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="2" x="990" y="1151" scaleX="1" scaleY="1" angle="213.746" flipH="false" flipV="false" />
+    </layer>
+    <layer id="2" scroll="1.1">
+      <backdropSet id="0" image="assets/backdrops/bkd_walls.png" />
+      <bd set="0" frame="3" x="1619" y="1162" scaleX="1" scaleY="1" angle="22.898" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="1156" y="1188" scaleX="1" scaleY="1" angle="354.815" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="1373" y="1180" scaleX="1" scaleY="1" angle="349.503" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="1559" y="1235" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="1627" y="1408" scaleX="1" scaleY="1" angle="88.4605" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="1647" y="1577" scaleX="1" scaleY="1" angle="94.2659" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="1665" y="1269" scaleX="1" scaleY="1" angle="60.996" flipH="false" flipV="false" />
+    </layer>
+  </canvas>
+</scene>

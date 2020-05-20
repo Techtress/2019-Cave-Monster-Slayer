@@ -1,0 +1,45 @@
+<?xml version = "1.0"?>
+<Configuration>
+
+<title>Project 5</title>
+<author>Alan Wright</author>
+
+<frameCapOn>true</frameCapOn>
+<frameCap>300</frameCap>
+<vsync>true</vsync>
+
+<!-- 4x4=16 -->
+<chunkSplits>16</chunkSplits>
+
+<view>
+  <width>1920</width>
+  <height>1080</height>
+  <loc x="30" y="50" />
+  <fullscreen>true</fullscreen>
+</view>
+
+<font name="font">
+  <file>fonts/arial.ttf</file>
+  <size>24</size>
+  <red>255</red>
+  <green>255</green>
+  <blue>255</blue>
+  <alpha>255</alpha>
+</font>
+
+<debug>
+    <textColor r="255" g="100" b="100" a="255" />
+    <backColor r="0" g="0" b="0" a="128" />
+    <outlineColor r="255" g="255" b="255" a="255" />
+</debug>
+
+<directions>
+    <line> - Directions - </line>
+    <line>A/D: move left/right</line>
+    <line>SPACE: jump</line>
+    <line>CTRL: sword attack</line>
+    <line />
+    <line>F2: Restart</line>
+</directions>
+
+</Configuration>

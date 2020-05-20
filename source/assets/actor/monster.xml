@@ -1,0 +1,72 @@
+<?xml version = "1.0"?>
+<actor>
+    
+    <attributes health="20" super="true" />
+    
+    <death>
+        <soundSet interval="-1">
+            <sound>monster_death.wav</sound>
+        </soundSet>
+    </death>
+    
+    <!-- AnimationSet -->
+    <animset>
+        <image00 name="assets/actor/monster.png" />
+        
+        <!-- Within animations, can set imageID to reflect the imageset -->
+        <!-- However, it defaults to '0' -->
+        <anim name="idle" speed="12" loop="true">
+            <direction id="right" frames="0" />
+            <direction id="left" frames="1" />
+        </anim>
+        <anim name="run" speed="10" loop="true">
+            <direction id="right" frames="2:9" />
+            <direction id="left" frames="10:17" />
+        </anim>
+        <anim name="jump" speed="9" loop="false">
+            <direction id="right" frames="0" />
+            <direction id="left" frames="1" />
+        </anim>
+        <anim name="fall" speed="6" loop="false">
+            <direction id="right" frames="18" />
+            <direction id="left" frames="24" />
+        </anim>
+        <anim name="attack" speed="24" loop="false">
+            <direction id="right" frames="18,18,18,18,19,19,20,20,20,21,21,22,23" />
+            <direction id="left" frames="24,24,24,24,25,25,26,26,26,27,27,28,29" />
+            <soundSet interval="-1"> <!-- Only play once-->
+                <sound>monster2.wav</sound>
+                <sound>monster3.wav</sound>
+            </soundSet>
+        </anim>
+    </animset>
+    
+    <!-- ActorPhysics -->
+    <actorphysics width="200" height="250" fallFactor="1" jumpStrength="1500"
+                  groundSpeed="600" groundAcc="5000" groundDec="3000"
+                  airSpeed="800"    airAcc="7500"     airDec="2000" />
+    
+    <!-- Attack actions of the actor -->
+    <attackSet>
+        <attack animation="attack" type="melee" hitDelay="8">
+            <hitBox life=".1" radius="200" damage="10.0" impact="2000" x="100" y="-200">
+                <soundSet interval="-1">
+                    <sound>slash1.wav</sound>
+                    <sound>slash2.wav</sound>
+                    <sound>slash3.wav</sound>
+                </soundSet>
+            </hitBox>
+        </attack>
+    </attackSet>
+    
+    <!-- AI behavior type -->
+    <behavior sight="700">
+        <state_idle time="1:4" />
+        <state_patrol time="2:2" range="512" />
+        <state_chase attackDist="260" attackID="strike" attackInterval="0.5:0.5">
+            <soundSet interval="-1"> <!-- Only play once-->
+                <sound>monster1.wav</sound>
+            </soundSet>
+        </state_chase>
+    </behavior>
+</actor>

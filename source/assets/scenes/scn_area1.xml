@@ -1,0 +1,542 @@
+<?xml version = "1.0"?>
+<scene width="15000" height="5000">
+  <entry name="start" x="2885.63" y="1739.18" dir="right" />
+  <collision>
+    <seg ax="8595.04" ay="548" bx="8319.55" by="65.3334" />
+    <seg ax="9247.04" ay="97.3334" bx="9051.04" by="541.333" />
+    <seg ax="9051.04" ay="541.333" bx="8595.04" by="548" />
+    <seg ax="7356.41" ay="1540.09" bx="7508.41" by="1459.09" />
+    <seg ax="7508.41" ay="1459.09" bx="7675.43" by="1193.61" />
+    <seg ax="7675.43" ay="1193.61" bx="7804.77" by="1130.94" />
+    <seg ax="7804.77" ay="1130.94" bx="7966.1" by="1127.86" />
+    <seg ax="7966.1" ay="1127.86" bx="8075.43" by="1068.27" />
+    <seg ax="8372.86" ay="1087" bx="8862.72" by="1109.38" />
+    <seg ax="8075.43" ay="1068.27" bx="8372.86" by="1087" />
+    <seg ax="8862.72" ay="1109.38" bx="9941.51" by="1100" />
+    <seg ax="9941.51" ay="1100" bx="10067.5" by="1106" />
+    <seg ax="10067.5" ay="1106" bx="10221.3" by="1262.5" />
+    <seg ax="10221.3" ay="1262.5" bx="10354.3" by="1315.5" />
+    <seg ax="10354.3" ay="1315.5" bx="10265.8" by="1380.38" />
+    <seg ax="10265.8" ay="1380.38" bx="10260.8" by="1514.38" />
+    <seg ax="11552.3" ay="1703.77" bx="11737.6" by="750.067" />
+    <seg ax="2378.54" ay="1952.06" bx="2574.54" by="1947.06" />
+    <seg ax="2206.64" ay="1383.55" bx="2378.54" by="1952.06" />
+    <seg ax="2574.54" ay="1947.06" bx="2896.54" by="1981.06" />
+    <seg ax="2896.54" ay="1981.06" bx="3176.54" by="1956.06" />
+    <seg ax="3176.54" ay="1956.06" bx="3169.02" by="2063.83" />
+    <seg ax="4182.37" ay="2061.25" bx="4262.45" by="1867.03" />
+    <seg ax="4262.45" ay="1867.03" bx="4410.46" by="1798.03" />
+    <seg ax="4410.46" ay="1798.03" bx="4480.46" by="1829.03" />
+    <seg ax="4480.46" ay="1829.03" bx="4501.45" by="1928.31" />
+    <seg ax="4501.45" ay="1928.31" bx="4788.45" by="2059.31" />
+    <seg ax="6484.73" ay="2001.12" bx="6537.95" by="1910.49" />
+    <seg ax="6537.95" ay="1910.49" bx="6628.61" by="1897.16" />
+    <seg ax="6628.61" ay="1897.16" bx="6709.95" by="1619.83" />
+    <seg ax="6709.95" ay="1619.83" bx="6936.41" by="1548.09" />
+    <seg ax="6936.41" ay="1548.09" bx="7054.41" by="1562.09" />
+    <seg ax="7054.41" ay="1562.09" bx="7356.41" by="1540.09" />
+    <seg ax="10260.8" ay="1514.38" bx="10286.1" by="1687.26" />
+    <seg ax="10286.1" ay="1687.26" bx="10738.3" by="1702.77" />
+    <seg ax="10738.3" ay="1702.77" bx="11292.3" by="1701.77" />
+    <seg ax="11292.3" ay="1701.77" bx="11552.3" by="1703.77" />
+    <seg ax="3169.02" ay="2063.83" bx="3186.02" by="2209.73" />
+    <seg ax="3186.02" ay="2209.73" bx="3173.02" by="2383.73" />
+    <seg ax="3173.02" ay="2383.73" bx="3178.02" by="2531.73" />
+    <seg ax="3837.39" ay="2373.9" bx="3618.78" by="2342.62" />
+    <seg ax="3618.78" ay="2342.62" bx="3586.34" by="2223.15" />
+    <seg ax="3586.34" ay="2223.15" bx="3693.78" by="2127.62" />
+    <seg ax="3693.78" ay="2127.62" bx="3905.17" by="2110.22" />
+    <seg ax="3905.17" ay="2110.22" bx="4017.17" by="2047.22" />
+    <seg ax="4098.39" ay="2322.9" bx="3837.39" by="2373.9" />
+    <seg ax="4238.78" ay="2416.62" bx="4098.39" by="2322.9" />
+    <seg ax="4017.17" ay="2047.22" bx="4182.37" by="2061.25" />
+    <seg ax="4448.12" ay="2685.55" bx="4238.78" by="2416.62" />
+    <seg ax="4788.45" ay="2059.31" bx="4915.37" by="2314.25" />
+    <seg ax="4915.37" ay="2314.25" bx="5012.44" by="2374.31" />
+    <seg ax="5012.44" ay="2374.31" bx="5197.44" by="2385.31" />
+    <seg ax="5197.44" ay="2385.31" bx="5379.86" by="2531.96" />
+    <seg ax="5805.4" ay="2564.46" bx="6078.73" by="2453.8" />
+    <seg ax="6078.73" ay="2453.8" bx="6208.07" by="2377.8" />
+    <seg ax="6208.07" ay="2377.8" bx="6497.4" by="2268.46" />
+    <seg ax="6497.4" ay="2268.46" bx="6511.39" by="2119.79" />
+    <seg ax="6511.39" ay="2119.79" bx="6484.73" by="2001.12" />
+    <seg ax="3178.02" ay="2531.73" bx="3269.02" by="2589.73" />
+    <seg ax="3269.02" ay="2589.73" bx="3549.74" by="2612.53" />
+    <seg ax="3549.74" ay="2612.53" bx="3882.74" by="2694.53" />
+    <seg ax="3882.74" ay="2694.53" bx="3855.06" by="2832.26" />
+    <seg ax="3855.06" ay="2832.26" bx="3752.47" by="3021.63" />
+    <seg ax="4258.93" ay="2930.51" bx="4446.79" by="2862.88" />
+    <seg ax="4446.79" ay="2862.88" bx="4448.12" by="2685.55" />
+    <seg ax="4304.12" ay="3044.82" bx="4258.93" by="2930.51" />
+    <seg ax="5379.86" ay="2531.96" bx="5594.86" by="2590.96" />
+    <seg ax="5594.86" ay="2590.96" bx="5805.4" by="2564.46" />
+    <seg ax="3752.47" ay="3021.63" bx="3766.93" by="3218.89" />
+    <seg ax="3766.93" ay="3218.89" bx="3883.93" by="3251.89" />
+    <seg ax="3798.3" ay="3379.5" bx="3896.93" by="3505.34" />
+    <seg ax="3896.93" ay="3505.34" bx="4093.93" by="3576.34" />
+    <seg ax="3883.93" ay="3251.89" bx="3798.3" by="3379.5" />
+    <seg ax="4508.12" ay="3443.48" bx="4462.79" by="3240.82" />
+    <seg ax="4462.79" ay="3240.82" bx="4477.45" by="3100.82" />
+    <seg ax="4477.45" ay="3100.82" bx="4304.12" by="3044.82" />
+    <seg ax="4559.9" ay="3556.77" bx="4508.12" by="3443.48" />
+    <seg ax="5654.23" ay="3511.04" bx="5149.94" by="3604.06" />
+    <seg ax="5859.56" ay="3568.37" bx="5654.23" by="3511.04" />
+    <seg ax="4093.93" ay="3576.34" bx="4171.33" by="3862.38" />
+    <seg ax="4171.33" ay="3862.38" bx="4462.33" by="4066.38" />
+    <seg ax="4768.9" ay="3627.77" bx="4559.9" by="3556.77" />
+    <seg ax="5149.94" ay="3604.06" bx="4937.94" by="3730.72" />
+    <seg ax="4937.94" ay="3730.72" bx="4768.9" by="3627.77" />
+    <seg ax="5844.06" ay="4100.38" bx="5991.56" by="3812.37" />
+    <seg ax="5991.56" ay="3812.37" bx="5859.56" by="3568.37" />
+    <seg ax="4462.33" ay="4066.38" bx="4702.23" by="4208.37" />
+    <seg ax="4702.23" ay="4208.37" bx="5358.06" by="4144.38" />
+    <seg ax="5358.06" ay="4144.38" bx="5655.06" by="4151.38" />
+    <seg ax="5655.06" ay="4151.38" bx="5844.06" by="4100.38" />
+  </collision>
+  <enemies>
+    <monster x="8466.79" y="1016.83" dir="right" />
+    <monster x="5378.05" y="4048.76" dir="right" />
+    <monster x="9664.22" y="982.766" dir="right" />
+    <monster x="7088.88" y="1431" dir="right" />
+    <monster x="5791.01" y="2303.66" dir="right" />
+    <monster x="11256.2" y="1544.45" dir="right" />
+    <monster x="10919.2" y="1558.45" dir="right" />
+    <monster x="10568.2" y="1546.45" dir="right" />
+  </enemies>
+  <canvas>
+    <layer id="-5" scroll="0.6">
+      <backdropSet id="0" image="assets/backdrops/bkd_rocks_med.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_rocks_large.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="3" image="assets/backdrops/bkd_rocks_small.png" />
+      <bd set="0" frame="0" x="3758" y="890" scaleX="1" scaleY="1" angle="310.862" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="3856" y="1141" scaleX="0.564512" scaleY="0.564512" angle="354.381" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="3054" y="1514" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="2989" y="1246" scaleX="1" scaleY="1" angle="91.5572" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="1420" y="917" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="2965" y="2536" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="2618" y="2661" scaleX="1" scaleY="1" angle="143.712" flipH="true" flipV="false" />
+      <bd set="2" frame="0" x="2920" y="2555" scaleX="2.44814" scaleY="2.44814" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="5" x="2387" y="1774" scaleX="1.60872" scaleY="1.60872" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="2332" y="1953" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="3417" y="1526" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="4457" y="863" scaleX="0.65545" scaleY="0.65545" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="6629" y="990" scaleX="1" scaleY="1" angle="290.646" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="6796" y="860" scaleX="1" scaleY="1" angle="282.887" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="6833" y="962" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="6989" y="712" scaleX="1" scaleY="1" angle="38.5179" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="6604" y="1169" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="7062" y="597" scaleX="4.80879" scaleY="8.70105" angle="37.4037" flipH="false" flipV="false" />
+    </layer>
+    <layer id="-4" scroll="0.7" background="assets/scenes/bg_mist.png" bgAlpha="0.75">
+      <backdropSet id="0" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_rocks_large.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_rocks_med.png" />
+      <backdropSet id="3" image="assets/backdrops/bkd_rocks_small.png" />
+      <bd set="0" frame="0" x="6642" y="792" scaleX="4.81784" scaleY="6.03597" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="5869" y="733" scaleX="2.35426" scaleY="2.35426" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="5563" y="388" scaleX="2.56057" scaleY="5.25319" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="5236" y="823" scaleX="3.06923" scaleY="3.06923" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="4673" y="1257" scaleX="3.16941" scaleY="3.16941" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="4886" y="1056" scaleX="1" scaleY="1" angle="300.408" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="4136" y="1478" scaleX="4.24534" scaleY="4.24534" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="4129" y="1253" scaleX="1.51354" scaleY="1" angle="249.936" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3597" y="2731" scaleX="4.08457" scaleY="4.08457" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3390" y="2350" scaleX="3.38892" scaleY="3.38944" angle="359.172" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3006" y="1195" scaleX="2.5388" scaleY="4.08307" angle="345.841" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="2381" y="1116" scaleX="2.24678" scaleY="5.42695" angle="0" flipH="false" flipV="true" />
+      <bd set="0" frame="0" x="2257" y="1154" scaleX="1" scaleY="7.21074" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="2628" y="1399" scaleX="0.403817" scaleY="0.403817" angle="224.514" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="3041" y="1312" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="1909" y="2049" scaleX="5.32567" scaleY="5.32567" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="2623" y="2492" scaleX="1" scaleY="1" angle="46.5925" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="2088" y="1002" scaleX="1.49881" scaleY="8.40058" angle="0" flipH="true" flipV="true" />
+      <bd set="1" frame="1" x="2090" y="1798" scaleX="0.77147" scaleY="0.77147" angle="41.3711" flipH="true" flipV="false" />
+      <bd set="2" frame="6" x="2277" y="1111" scaleX="1" scaleY="1" angle="98.5488" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="2182" y="1368" scaleX="1" scaleY="1" angle="13.9341" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="2386" y="1809" scaleX="2.24695" scaleY="2.24695" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="2563" y="1978" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="2575" y="1532" scaleX="0.674795" scaleY="0.674795" angle="242.353" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="3182" y="1712" scaleX="1" scaleY="1" angle="342.762" flipH="true" flipV="false" />
+      <bd set="2" frame="3" x="3133" y="1098" scaleX="1" scaleY="1" angle="162.081" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="2870" y="1339" scaleX="0.760328" scaleY="0.760328" angle="112.537" flipH="true" flipV="false" />
+      <bd set="3" frame="3" x="3329" y="1163" scaleX="1" scaleY="1" angle="71.4942" flipH="false" flipV="false" />
+      <bd set="3" frame="1" x="3406" y="1446" scaleX="1" scaleY="1" angle="77.7236" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="3390" y="1823" scaleX="0.724021" scaleY="0.724021" angle="331.809" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="3367" y="1501" scaleX="0.649444" scaleY="0.649444" angle="248.089" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="3293" y="2342" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="2" frame="0" x="2440" y="1281" scaleX="1" scaleY="1" angle="306.83" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="3484" y="2828" scaleX="0.626267" scaleY="0.626267" angle="0" flipH="true" flipV="true" />
+      <bd set="1" frame="0" x="4091" y="1727" scaleX="0.683723" scaleY="0.683723" angle="212.468" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="4414" y="1381" scaleX="0.853998" scaleY="0.853998" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="4593" y="1194" scaleX="0.702679" scaleY="0.702679" angle="46.7241" flipH="true" flipV="false" />
+      <bd set="3" frame="4" x="4662" y="703" scaleX="1.77296" scaleY="1.77296" angle="262.775" flipH="true" flipV="false" />
+      <bd set="2" frame="0" x="5158" y="1099" scaleX="1.56398" scaleY="1" angle="325.309" flipH="false" flipV="false" />
+      <bd set="2" frame="6" x="5661" y="347" scaleX="1" scaleY="1" angle="100.835" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="5441" y="663" scaleX="1" scaleY="1" angle="345.998" flipH="true" flipV="false" />
+      <bd set="2" frame="4" x="5858" y="482" scaleX="1" scaleY="1" angle="181.947" flipH="false" flipV="false" />
+      <bd set="2" frame="6" x="5943" y="661" scaleX="1" scaleY="1" angle="245.579" flipH="true" flipV="false" />
+      <bd set="1" frame="4" x="6738" y="884" scaleX="1" scaleY="1" angle="218.135" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="7531" y="425" scaleX="1" scaleY="1" angle="281.526" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="7088" y="449" scaleX="1" scaleY="1" angle="65.2165" flipH="true" flipV="false" />
+      <bd set="1" frame="2" x="7380" y="761" scaleX="1" scaleY="1" angle="106.744" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="7381" y="1160" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+    </layer>
+    <layer id="-3" scroll="0.8" background="assets/scenes/bg_mist.png" bgAlpha="0.65">
+      <backdropSet id="0" image="assets/backdrops/bkd_rocks_large.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_rocks_med.png" />
+      <backdropSet id="3" image="assets/backdrops/bkd_rocks_small.png" />
+      <bd set="0" frame="5" x="3572" y="3290" scaleX="0.544564" scaleY="0.544564" angle="350.023" flipH="false" flipV="true" />
+      <bd set="1" frame="1" x="3930" y="2700" scaleX="3.40097" scaleY="4.58887" angle="0" flipH="true" flipV="false" />
+      <bd set="2" frame="4" x="4240" y="3215" scaleX="1" scaleY="1" angle="2.65219" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="3871" y="2675" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="1" frame="0" x="2812" y="2949" scaleX="1.58593" scaleY="6.43347" angle="307.966" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="1735" y="991" scaleX="3.85377" scaleY="6.00107" angle="0" flipH="false" flipV="true" />
+      <bd set="0" frame="1" x="2087" y="1355" scaleX="1" scaleY="1" angle="317.709" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="2084" y="789" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="3371" y="3022" scaleX="1.15821" scaleY="1.15821" angle="297.489" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="3049" y="2829" scaleX="1" scaleY="1" angle="286.047" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="4078" y="2930" scaleX="1" scaleY="1" angle="325.211" flipH="true" flipV="false" />
+      <bd set="3" frame="3" x="3757" y="3432" scaleX="1.1017" scaleY="1.1017" angle="4.89381" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="3517" y="3372" scaleX="2.63262" scaleY="1" angle="11.4645" flipH="false" flipV="false" />
+      <bd set="0" frame="2" x="8257" y="1281" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="9076" y="1402" scaleX="1" scaleY="1" angle="17.5011" flipH="true" flipV="false" />
+      <bd set="2" frame="6" x="9173" y="1069" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="9216" y="838" scaleX="1" scaleY="1" angle="185.873" flipH="false" flipV="false" />
+    </layer>
+    <layer id="-2" scroll="0.9" background="assets/scenes/bg_mist.png" bgAlpha="0.35">
+      <backdropSet id="0" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_rocks_large.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_rocks_med.png" />
+      <backdropSet id="3" image="assets/backdrops/bkd_rocks_small.png" />
+      <bd set="0" frame="0" x="10205" y="739" scaleX="1" scaleY="1" angle="328.342" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="10309" y="686" scaleX="4.61108" scaleY="8.51425" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="10162" y="86" scaleX="16.9302" scaleY="5.05027" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="9644" y="-102" scaleX="21.0772" scaleY="2.23527" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="9506" y="-89" scaleX="1" scaleY="1" angle="289.521" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="7135" y="-91" scaleX="2.86787" scaleY="2.86787" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="7559" y="340" scaleX="5.15768" scaleY="5.53082" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="8112" y="515" scaleX="1" scaleY="1" angle="340.155" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="8527" y="1057" scaleX="1" scaleY="1" angle="117.458" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="7405" y="402" scaleX="1" scaleY="1" angle="254.942" flipH="true" flipV="false" />
+      <bd set="0" frame="1" x="3656" y="1712" scaleX="1.96195" scaleY="1.92674" angle="0" flipH="true" flipV="true" />
+      <bd set="0" frame="0" x="3958" y="2469" scaleX="1.41586" scaleY="2.85911" angle="349.862" flipH="false" flipV="false" />
+      <bd set="3" frame="5" x="3947" y="2454" scaleX="1" scaleY="1" angle="128.078" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="4974" y="1888" scaleX="6.95406" scaleY="4.26202" angle="0" flipH="true" flipV="true" />
+      <bd set="0" frame="0" x="5853" y="1720" scaleX="2.78386" scaleY="3.76533" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="4634" y="3072" scaleX="4.28915" scaleY="6.67682" angle="0" flipH="true" flipV="true" />
+      <bd set="0" frame="0" x="255" y="647" scaleX="13.2957" scaleY="9.48202" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="1753" y="674" scaleX="4.61509" scaleY="9.60026" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="2235" y="984" scaleX="0.853242" scaleY="0.853242" angle="39.4701" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="2037" y="1554" scaleX="0.887298" scaleY="0.887298" angle="356.048" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="2936" y="2212" scaleX="1" scaleY="1" angle="8.62594" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="4779" y="3493" scaleX="0.779127" scaleY="0.779127" angle="15.3173" flipH="true" flipV="false" />
+      <bd set="2" frame="0" x="4516" y="3805" scaleX="1" scaleY="1" angle="218.403" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="4686" y="3752" scaleX="1" scaleY="1" angle="74.3312" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="5639" y="2008" scaleX="1" scaleY="1" angle="358.039" flipH="true" flipV="false" />
+      <bd set="2" frame="1" x="6745" y="1328" scaleX="1" scaleY="1" angle="203.264" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="6953" y="1173" scaleX="1" scaleY="1" angle="108.949" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="5278" y="2201" scaleX="1" scaleY="1" angle="225.26" flipH="false" flipV="false" />
+      <bd set="2" frame="6" x="5013" y="2369" scaleX="1" scaleY="1" angle="105.902" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="5977" y="1725" scaleX="1" scaleY="1" angle="77.2864" flipH="false" flipV="false" />
+      <bd set="3" frame="3" x="3951" y="2576" scaleX="1" scaleY="1" angle="275.106" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="4003" y="2714" scaleX="1" scaleY="1" angle="250.066" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="4153" y="2844" scaleX="1" scaleY="1" angle="341.962" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="3763" y="1827" scaleX="0.994722" scaleY="0.547729" angle="147.242" flipH="true" flipV="false" />
+      <bd set="3" frame="3" x="3969" y="1739" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="4060" y="1831" scaleX="1" scaleY="1" angle="63.376" flipH="true" flipV="false" />
+      <bd set="1" frame="3" x="7588" y="817" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="2" frame="4" x="7109" y="60" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="6" x="7373" y="958" scaleX="1" scaleY="1" angle="117.319" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="7124" y="1061" scaleX="1" scaleY="1" angle="223.497" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="8285" y="890" scaleX="1" scaleY="1" angle="320.035" flipH="false" flipV="false" />
+      <bd set="2" frame="6" x="10293" y="1520" scaleX="1" scaleY="1" angle="108.16" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="10348" y="1259" scaleX="1" scaleY="1" angle="39.8694" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="10366" y="943" scaleX="0.693438" scaleY="0.693438" angle="0" flipH="true" flipV="false" />
+      <bd set="2" frame="5" x="10204" y="710" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="9980" y="382" scaleX="1" scaleY="1" angle="340.071" flipH="true" flipV="false" />
+    </layer>
+    <layer id="-1" scroll="0.95" background="assets/scenes/bg_mist.png" bgAlpha="0.25">
+      <backdropSet id="0" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_rocks_med.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_rocks_large.png" />
+      <bd set="0" frame="0" x="8182" y="492" scaleX="3.47922" scaleY="1.5312" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="7957" y="-18" scaleX="5.77643" scaleY="4.27141" angle="0.240444" flipH="false" flipV="false" />
+      <bd set="1" frame="6" x="7984" y="468" scaleX="1" scaleY="1" angle="50.5401" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="5494" y="3326" scaleX="2.42554" scaleY="4.51946" angle="352.759" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="2328" y="1757" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="2119" y="935" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="5309" y="3428" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="true" />
+      <bd set="2" frame="3" x="5397" y="3893" scaleX="1" scaleY="1" angle="19.2835" flipH="true" flipV="false" />
+      <bd set="1" frame="3" x="6107" y="2134" scaleX="1" scaleY="1" angle="113.041" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="4064" y="2463" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="true" />
+      <bd set="1" frame="6" x="3072" y="2425" scaleX="1" scaleY="1" angle="251.545" flipH="true" flipV="false" />
+      <bd set="1" frame="1" x="2994" y="2329" scaleX="1" scaleY="1" angle="321.199" flipH="false" flipV="false" />
+      <bd set="1" frame="6" x="3990" y="1946" scaleX="0.540301" scaleY="0.540301" angle="109.42" flipH="false" flipV="false" />
+      <bd set="1" frame="6" x="3823" y="2282" scaleX="1" scaleY="1" angle="90.8845" flipH="true" flipV="false" />
+      <bd set="2" frame="3" x="7860" y="197" scaleX="1" scaleY="1" angle="176.498" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="8830" y="152" scaleX="1" scaleY="1" angle="100.906" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="8244" y="637" scaleX="1" scaleY="1" angle="92.8978" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="8580" y="601" scaleX="1" scaleY="1" angle="335.919" flipH="true" flipV="false" />
+      <bd set="1" frame="5" x="8685" y="390" scaleX="1" scaleY="1" angle="227.772" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="8047" y="1031" scaleX="1" scaleY="1" angle="95.5168" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="8357" y="973" scaleX="1" scaleY="1" angle="264.581" flipH="false" flipV="false" />
+      <bd set="1" frame="6" x="8634" y="983" scaleX="1" scaleY="1" angle="260.299" flipH="true" flipV="false" />
+    </layer>
+    <layer id="0" scroll="1" background="assets/scenes/bg_mist.png" bgAlpha="0.2">
+      <backdropSet id="0" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_rocks_large.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_rocks_small.png" />
+      <backdropSet id="3" image="assets/backdrops/bkd_rocks_med.png" />
+      <bd set="0" frame="0" x="11858" y="258" scaleX="14.3387" scaleY="3.43199" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="11293" y="254" scaleX="4.64985" scaleY="4.64985" angle="0" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="11216" y="-18" scaleX="19.2368" scaleY="2.38121" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="10736" y="-49" scaleX="1" scaleY="1" angle="315.063" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="11712" y="900" scaleX="1" scaleY="4.06693" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="10036" y="1126" scaleX="1.45344" scaleY="1.59204" angle="0" flipH="false" flipV="true" />
+      <bd set="0" frame="0" x="10030" y="1285" scaleX="1.5618" scaleY="4.61604" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="11639" y="1435" scaleX="2.5669" scaleY="2.5669" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="11783" y="659" scaleX="17.4025" scaleY="17.4025" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="10054" y="1691" scaleX="15.4232" scaleY="9.45971" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="9036" y="-10" scaleX="1.67113" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="9035" y="96" scaleX="1.71947" scaleY="3.77815" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="8581" y="-10" scaleX="3.65201" scaleY="4.28104" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="7998" y="1123" scaleX="16.1316" scaleY="28.6722" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="7568" y="1529" scaleX="3.3771" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="7753" y="1184" scaleX="2.34727" scaleY="2.88221" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="6728" y="1637" scaleX="9.95916" scaleY="24.6793" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="6593" y="1897" scaleX="1.41739" scaleY="5.7282" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="6595" y="2254" scaleX="2.76366" scaleY="5.5649" angle="90" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="5355" y="2603" scaleX="10.8665" scaleY="2.40325" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="7997" y="1135" scaleX="0.791559" scaleY="0.899431" angle="348.436" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="8365" y="1119" scaleX="1.81982" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="1" frame="2" x="7609" y="1406" scaleX="1" scaleY="1" angle="270.443" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="4061" y="4143" scaleX="3.29715" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="5801" y="4131" scaleX="7.59404" scaleY="5.16959" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="2539" y="4241" scaleX="26.311" scaleY="4.40751" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="2522" y="3617" scaleX="12.2102" scaleY="5.07557" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="5478" y="3149" scaleX="4.18959" scaleY="2.42105" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="5996" y="3171" scaleX="5.91224" scaleY="8.10832" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="6" x="5503" y="3453" scaleX="0.63834" scaleY="0.63834" angle="60.4075" flipH="true" flipV="false" />
+      <bd set="2" frame="0" x="5179" y="3491" scaleX="1" scaleY="1" angle="167.285" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="6107" y="2465" scaleX="1" scaleY="1" angle="334.35" flipH="false" flipV="false" />
+      <bd set="3" frame="5" x="4425" y="1891" scaleX="1" scaleY="1" angle="187.305" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="4316" y="1988" scaleX="1" scaleY="1" angle="185.327" flipH="true" flipV="false" />
+      <bd set="3" frame="3" x="4707" y="3518" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="376" y="2734" scaleX="26.1181" scaleY="7.77446" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3673" y="3243" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="3806" y="3303" scaleX="1" scaleY="1" angle="20.2141" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="2166" y="2022" scaleX="5.62266" scaleY="1.73812" angle="270" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="375" y="-33" scaleX="14.0007" scaleY="16.6229" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3083" y="2585" scaleX="6.18232" scaleY="1.0862" angle="8.75411" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3756" y="2183" scaleX="3.97986" scaleY="1.42877" angle="348.493" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="3828" y="2784" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="3657" y="2664" scaleX="1" scaleY="1" angle="10.1153" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="3238" y="2611" scaleX="1" scaleY="1" angle="289.078" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="383" y="1998" scaleX="21.6804" scaleY="5.81036" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="2501" y="1980" scaleX="0.669861" scaleY="0.669861" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="2793" y="1987" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="3029" y="2003" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="3134" y="2037" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="3158" y="2308" scaleX="1" scaleY="1" angle="90" flipH="false" flipV="false" />
+      <bd set="3" frame="5" x="3150" y="2606" scaleX="1" scaleY="1" angle="216.037" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="3358" y="2635" scaleX="1" scaleY="1" angle="10.8001" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="3923" y="2137" scaleX="1" scaleY="1" angle="348.552" flipH="false" flipV="false" />
+      <bd set="3" frame="6" x="3706" y="2277" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="3918" y="2367" scaleX="1" scaleY="1" angle="162.389" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="2259" y="1662" scaleX="1" scaleY="1" angle="71.1916" flipH="false" flipV="false" />
+      <bd set="3" frame="0" x="4393" y="2518" scaleX="1" scaleY="1" angle="123.764" flipH="false" flipV="false" />
+      <bd set="3" frame="6" x="4299" y="2366" scaleX="0.550475" scaleY="0.550475" angle="112.185" flipH="true" flipV="false" />
+      <bd set="1" frame="1" x="4604" y="3080" scaleX="1" scaleY="1" angle="196.512" flipH="false" flipV="true" />
+      <bd set="3" frame="3" x="4561" y="2608" scaleX="1" scaleY="1" angle="42.1744" flipH="false" flipV="false" />
+      <bd set="3" frame="1" x="3747" y="2974" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="3748" y="3403" scaleX="1" scaleY="1" angle="19.6954" flipH="false" flipV="false" />
+      <bd set="3" frame="3" x="3986" y="3649" scaleX="1" scaleY="1" angle="53.4875" flipH="false" flipV="true" />
+      <bd set="3" frame="3" x="4447" y="2993" scaleX="1" scaleY="1" angle="348.304" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="3723" y="3251" scaleX="1" scaleY="1" angle="13.3796" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="4248" y="3990" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="5034" y="2508" scaleX="1" scaleY="1" angle="278.857" flipH="false" flipV="false" />
+      <bd set="3" frame="5" x="4777" y="2242" scaleX="0.694075" scaleY="0.694075" angle="195.136" flipH="false" flipV="false" />
+      <bd set="3" frame="1" x="4627" y="2062" scaleX="1" scaleY="1" angle="276.379" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="5735" y="2608" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="1" x="5482" y="2616" scaleX="1" scaleY="1" angle="123.359" flipH="true" flipV="false" />
+      <bd set="3" frame="1" x="5970" y="3969" scaleX="1" scaleY="1" angle="41.7382" flipH="true" flipV="false" />
+      <bd set="3" frame="0" x="6016" y="3659" scaleX="1" scaleY="1" angle="15.8053" flipH="true" flipV="false" />
+      <bd set="3" frame="3" x="5854" y="3469" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="6" x="4865" y="3471" scaleX="0.486166" scaleY="0.486166" angle="310.208" flipH="false" flipV="false" />
+      <bd set="3" frame="5" x="5637" y="3459" scaleX="1" scaleY="1" angle="327.653" flipH="false" flipV="false" />
+      <bd set="3" frame="3" x="4524" y="4172" scaleX="1" scaleY="1" angle="185.206" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="4757" y="4240" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="2" frame="3" x="4903" y="4219" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="5115" y="4212" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="5470" y="4172" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="5772" y="4149" scaleX="1.16372" scaleY="1.16372" angle="350.421" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="2191" y="1166" scaleX="1" scaleY="1" angle="92.7626" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="6448" y="2306" scaleX="1" scaleY="1" angle="329.982" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="6758" y="1753" scaleX="1" scaleY="1" angle="38.433" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="6626" y="1929" scaleX="1" scaleY="1" angle="3.44638" flipH="false" flipV="false" />
+      <bd set="3" frame="1" x="6562" y="2109" scaleX="1" scaleY="1" angle="160.731" flipH="false" flipV="false" />
+      <bd set="3" frame="0" x="6893" y="1638" scaleX="1" scaleY="1" angle="239.309" flipH="false" flipV="false" />
+      <bd set="3" frame="2" x="7182" y="1636" scaleX="1" scaleY="1" angle="257.542" flipH="false" flipV="false" />
+      <bd set="3" frame="6" x="7444" y="1610" scaleX="1" scaleY="1" angle="78.7075" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="8426" y="69" scaleX="1" scaleY="1" angle="358.47" flipH="true" flipV="false" />
+      <bd set="0" frame="0" x="6221" y="2848" scaleX="4.17151" scaleY="2.7068" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="2" x="4185" y="2344" scaleX="1" scaleY="1" angle="97.054" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="8800" y="1129" scaleX="0.856496" scaleY="0.856496" angle="357.446" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="9220" y="1137" scaleX="1" scaleY="1" angle="6.36268" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="9409" y="1130" scaleX="1" scaleY="1" angle="356.498" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="9555" y="1134" scaleX="1" scaleY="1" angle="6.93405" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="9840" y="1121" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="5" x="8659" y="529" scaleX="1" scaleY="1" angle="317.494" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="8970" y="556" scaleX="1" scaleY="1" angle="176.438" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="8811" y="550" scaleX="1" scaleY="1" angle="183.565" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="9154" y="338" scaleX="1" scaleY="1" angle="112.186" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="10101" y="1175" scaleX="1" scaleY="1" angle="46.2141" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="10190" y="1278" scaleX="1" scaleY="1" angle="300.334" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="10223" y="1426" scaleX="1" scaleY="1" angle="236.123" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="10221" y="1601" scaleX="1" scaleY="1" angle="87.4432" flipH="true" flipV="false" />
+      <bd set="2" frame="1" x="10481" y="1703" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="11028" y="1720" scaleX="1" scaleY="1" angle="358.856" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="11423" y="1702" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="3" frame="3" x="11650" y="1789" scaleX="1" scaleY="1" angle="193.245" flipH="false" flipV="false" />
+      <bd set="3" frame="1" x="11640" y="1506" scaleX="1" scaleY="1" angle="174.164" flipH="false" flipV="false" />
+      <bd set="3" frame="2" x="11739" y="1160" scaleX="1" scaleY="1" angle="179.201" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="11747" y="817" scaleX="1" scaleY="1" angle="24.3706" flipH="false" flipV="false" />
+      <bd set="3" frame="3" x="11596" y="591" scaleX="1" scaleY="1" angle="10.0141" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="11167" y="164" scaleX="1" scaleY="1" angle="90.0019" flipH="false" flipV="false" />
+    </layer>
+    <layer id="1" scroll="1.05">
+      <backdropSet id="0" image="assets/backdrops/bkd_rocks_med.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_rocks_small.png" />
+      <backdropSet id="3" image="assets/backdrops/bkd_rocks_large.png" />
+      <bd set="0" frame="6" x="12449" y="779" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="8920" y="1111" scaleX="5.7008" scaleY="1.77478" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="8994" y="1150" scaleX="1" scaleY="1" angle="164.447" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="8769" y="1289" scaleX="1" scaleY="1" angle="82.3611" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="9027" y="423" scaleX="1" scaleY="1" angle="9.25917" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="8067" y="1452" scaleX="2.55454" scaleY="2.55454" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="5028" y="2834" scaleX="2.8536" scaleY="5.62204" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="4" x="7772" y="1771" scaleX="1.49335" scaleY="1.49335" angle="352.582" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="7089" y="2408" scaleX="1" scaleY="1" angle="94.1131" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="2246" y="1489" scaleX="0.755518" scaleY="0.755518" angle="324.311" flipH="true" flipV="false" />
+      <bd set="1" frame="0" x="4915" y="3339" scaleX="3.11166" scaleY="3.11166" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="4801" y="3162" scaleX="1.50965" scaleY="1.50965" angle="10.0049" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="4619" y="2050" scaleX="11.198" scaleY="2.91115" angle="41.2079" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="4056" y="2288" scaleX="3.92598" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="0" x="4187" y="2430" scaleX="1" scaleY="1" angle="186.866" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="4852" y="2717" scaleX="1.5725" scaleY="1.5725" angle="335.022" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="5184" y="4434" scaleX="1" scaleY="1" angle="96.5786" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="6481" y="3566" scaleX="3.83596" scaleY="6.32502" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="4940" y="3609" scaleX="1" scaleY="1" angle="54.8021" flipH="false" flipV="false" />
+      <bd set="3" frame="3" x="5450" y="2782" scaleX="1" scaleY="1" angle="323.104" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="2644" y="2142" scaleX="1" scaleY="1" angle="244.514" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3137" y="2154" scaleX="1" scaleY="1" angle="243.739" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="2925" y="2160" scaleX="1" scaleY="1" angle="99.533" flipH="false" flipV="false" />
+      <bd set="0" frame="2" x="3143" y="2522" scaleX="1" scaleY="1" angle="3.77479" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="3934" y="2308" scaleX="1" scaleY="1" angle="68.6629" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="2318" y="2042" scaleX="1" scaleY="1" angle="228.393" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="2224" y="1707" scaleX="1" scaleY="1" angle="189.228" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="3793" y="2927" scaleX="1" scaleY="1" angle="120.605" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="3589" y="2884" scaleX="1" scaleY="1" angle="126.682" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="3316" y="2840" scaleX="1" scaleY="1" angle="197.074" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="4626" y="2090" scaleX="1" scaleY="1" angle="105.749" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="4501" y="2236" scaleX="1" scaleY="1" angle="82.6243" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="4836" y="2208" scaleX="1.93742" scaleY="1.93742" angle="33.8206" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="5024" y="2420" scaleX="1" scaleY="1" angle="168.83" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="5171" y="2587" scaleX="1" scaleY="1" angle="132.778" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="5264" y="3718" scaleX="1" scaleY="1" angle="296.149" flipH="true" flipV="false" />
+      <bd set="0" frame="4" x="5545" y="3774" scaleX="1" scaleY="1" angle="24.7609" flipH="true" flipV="false" />
+      <bd set="0" frame="1" x="5809" y="3592" scaleX="1" scaleY="1" angle="27.5835" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="6421" y="4012" scaleX="1" scaleY="1" angle="77.6932" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="6321" y="4244" scaleX="1" scaleY="1" angle="49.4897" flipH="false" flipV="false" />
+      <bd set="0" frame="2" x="6433" y="3672" scaleX="1" scaleY="1" angle="13.8455" flipH="true" flipV="false" />
+      <bd set="0" frame="5" x="6124" y="4388" scaleX="1" scaleY="1" angle="76.9055" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="5335" y="4422" scaleX="1" scaleY="1" angle="96.3244" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="5537" y="4462" scaleX="1" scaleY="1" angle="158.392" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="5715" y="4446" scaleX="1" scaleY="1" angle="122.64" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="5884" y="4449" scaleX="1" scaleY="1" angle="226.02" flipH="false" flipV="false" />
+      <bd set="3" frame="0" x="4981" y="3141" scaleX="0.757056" scaleY="0.757056" angle="346.027" flipH="true" flipV="false" />
+      <bd set="0" frame="4" x="4580" y="2551" scaleX="1" scaleY="1" angle="325.286" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="4728" y="2558" scaleX="0.974396" scaleY="0.974396" angle="305.969" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="4090" y="4010" scaleX="1.29671" scaleY="1.29671" angle="298.372" flipH="true" flipV="false" />
+      <bd set="0" frame="5" x="4312" y="4221" scaleX="1" scaleY="1" angle="303.624" flipH="true" flipV="false" />
+      <bd set="0" frame="6" x="4387" y="4377" scaleX="1" scaleY="1" angle="123.568" flipH="false" flipV="false" />
+      <bd set="0" frame="2" x="3829" y="3647" scaleX="1" scaleY="1.56399" angle="319.693" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="3642" y="3348" scaleX="1.37461" scaleY="1.37461" angle="333.919" flipH="true" flipV="false" />
+      <bd set="0" frame="4" x="6375" y="2852" scaleX="1.23273" scaleY="1.23273" angle="77.3289" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="6526" y="2669" scaleX="1" scaleY="1" angle="103.281" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="6821" y="2619" scaleX="1.28641" scaleY="1.28641" angle="225.353" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="7120" y="2151" scaleX="1" scaleY="1" angle="287.021" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="7242" y="1913" scaleX="1.35969" scaleY="1.35969" angle="200.965" flipH="true" flipV="false" />
+      <bd set="0" frame="3" x="7478" y="1807" scaleX="1" scaleY="1" angle="176.285" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="8024" y="1590" scaleX="1" scaleY="1" angle="199.823" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="8232" y="1413" scaleX="1" scaleY="1" angle="108.171" flipH="false" flipV="false" />
+      <bd set="0" frame="3" x="8514" y="1301" scaleX="1" scaleY="1" angle="166.641" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="9293" y="1073" scaleX="1" scaleY="1" angle="110.232" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="9509" y="1082" scaleX="1" scaleY="1" angle="246.208" flipH="true" flipV="false" />
+      <bd set="0" frame="3" x="10699" y="1784" scaleX="1" scaleY="1" angle="205.22" flipH="false" flipV="false" />
+      <bd set="0" frame="2" x="11020" y="1875" scaleX="1" scaleY="1" angle="268.496" flipH="false" flipV="false" />
+      <bd set="0" frame="6" x="11296" y="1882" scaleX="1" scaleY="1" angle="88.0747" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="10666" y="1577" scaleX="1" scaleY="1" angle="184.608" flipH="false" flipV="false" />
+      <bd set="3" frame="4" x="10384" y="1433" scaleX="1" scaleY="1" angle="283.638" flipH="false" flipV="false" />
+      <bd set="0" frame="1" x="12104" y="445" scaleX="1" scaleY="1" angle="115.344" flipH="false" flipV="false" />
+      <bd set="0" frame="5" x="12319" y="640" scaleX="1" scaleY="1" angle="333.662" flipH="false" flipV="false" />
+      <bd set="0" frame="4" x="12535" y="1004" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+    </layer>
+    <layer id="2" scroll="1.2">
+      <backdropSet id="0" image="assets/backdrops/bkd_blocks.png" />
+      <backdropSet id="1" image="assets/backdrops/bkd_rocks_large.png" />
+      <backdropSet id="2" image="assets/backdrops/bkd_rocks_med.png" />
+      <bd set="0" frame="0" x="10539" y="823" scaleX="2.31539" scaleY="5.0894" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="10502" y="664" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="1" frame="4" x="10797" y="720" scaleX="1" scaleY="1" angle="11.3147" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="8635" y="2316" scaleX="1" scaleY="1" angle="231.867" flipH="false" flipV="true" />
+      <bd set="2" frame="5" x="6039" y="5185" scaleX="1.47108" scaleY="1.47108" angle="81.9697" flipH="false" flipV="false" />
+      <bd set="2" frame="3" x="5571" y="5175" scaleX="1.4046" scaleY="1.4046" angle="187.988" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="4582" y="4624" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="6339" y="5212" scaleX="1" scaleY="1" angle="271.159" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="6817" y="5200" scaleX="1" scaleY="1" angle="275.766" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="6488" y="3365" scaleX="10.6336" scaleY="4.9869" angle="0" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="5935" y="3331" scaleX="4.48209" scaleY="6.98336" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="6696" y="4033" scaleX="1.399" scaleY="1.399" angle="58.8802" flipH="false" flipV="false" />
+      <bd set="0" frame="0" x="3381" y="3166" scaleX="5.69374" scaleY="3.70698" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="2795" y="1200" scaleX="1" scaleY="1" angle="90" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="2468" y="2330" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="2504" y="1677" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="4051" y="3226" scaleX="1" scaleY="1" angle="288.136" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="4212" y="3745" scaleX="1" scaleY="1" angle="87.4249" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="4402" y="3462" scaleX="1.11371" scaleY="1.11371" angle="221.366" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="2830" y="2741" scaleX="2.04384" scaleY="2.04384" angle="151.26" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="3560" y="3016" scaleX="1" scaleY="1" angle="96.3231" flipH="true" flipV="false" />
+      <bd set="1" frame="4" x="6282" y="4296" scaleX="1" scaleY="1" angle="30.4305" flipH="false" flipV="false" />
+      <bd set="2" frame="6" x="6096" y="4459" scaleX="1" scaleY="1" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="1" x="5826" y="4184" scaleX="1.50026" scaleY="1.50026" angle="343.832" flipH="true" flipV="false" />
+      <bd set="1" frame="1" x="7314" y="4813" scaleX="1" scaleY="1" angle="56.4856" flipH="true" flipV="false" />
+      <bd set="1" frame="0" x="7294" y="4073" scaleX="0.899078" scaleY="0.899078" angle="128.456" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="7612" y="4472" scaleX="1.751" scaleY="1.751" angle="0" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="4316" y="4235" scaleX="1" scaleY="1" angle="344.252" flipH="false" flipV="true" />
+      <bd set="1" frame="1" x="4988" y="5020" scaleX="1" scaleY="1" angle="276.216" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="8326" y="2606" scaleX="1" scaleY="1" angle="202.42" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="8012" y="3050" scaleX="1" scaleY="1" angle="236.693" flipH="false" flipV="false" />
+      <bd set="2" frame="6" x="6821" y="3348" scaleX="1.42778" scaleY="1.42778" angle="74.8665" flipH="false" flipV="false" />
+      <bd set="1" frame="0" x="7347" y="3401" scaleX="1" scaleY="1" angle="276.145" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="5950" y="3614" scaleX="1" scaleY="1" angle="357.891" flipH="true" flipV="false" />
+      <bd set="2" frame="5" x="5850" y="3946" scaleX="1.36853" scaleY="1.36853" angle="0" flipH="false" flipV="false" />
+      <bd set="2" frame="5" x="6043" y="3367" scaleX="1.70761" scaleY="1.70761" angle="112.512" flipH="false" flipV="false" />
+      <bd set="2" frame="2" x="6435" y="3363" scaleX="1.50068" scaleY="1.50068" angle="256.5" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="9101" y="2151" scaleX="1" scaleY="1" angle="239.245" flipH="false" flipV="false" />
+      <bd set="1" frame="5" x="9643" y="1886" scaleX="1" scaleY="1" angle="204.686" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="10017" y="1579" scaleX="1" scaleY="1" angle="260.517" flipH="false" flipV="false" />
+      <bd set="1" frame="2" x="10419" y="1282" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="1" frame="5" x="11048" y="1354" scaleX="1" scaleY="1" angle="276.722" flipH="false" flipV="false" />
+      <bd set="1" frame="1" x="11572" y="1666" scaleX="1" scaleY="1" angle="286.977" flipH="false" flipV="false" />
+      <bd set="1" frame="4" x="11972" y="2044" scaleX="1" scaleY="1" angle="157.965" flipH="true" flipV="false" />
+      <bd set="1" frame="0" x="12374" y="2549" scaleX="1" scaleY="1" angle="313.649" flipH="false" flipV="false" />
+      <bd set="1" frame="3" x="14134" y="1860" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="1" frame="0" x="14330" y="1237" scaleX="1" scaleY="1" angle="0" flipH="true" flipV="false" />
+      <bd set="1" frame="5" x="13930" y="2354" scaleX="1" scaleY="1" angle="190.607" flipH="false" flipV="false" />
+    </layer>
+  </canvas>
+</scene>

@@ -1,0 +1,25 @@
+Name: Alan Wright
+
+Course: CPSC 4160
+
+Clemson Email Address: alan9@g.clemson.edu
+
+Final Project: #6
+
+Project due date: May 1st, 2019 at 8 AM
+
+Project description: The final part of the project. The game should reach a conclusion by winning/losing, and I should incorporate "pizzazz."
+
+The sound effects are all mine. I found this cool program call QTractor that tries to mimic studio software like Ableton or FL Studio, but it's open source. Most are recordings of household items with special effects like frequency shift and reverb.
+
+To clarify though, same as in Project 5, my brother did the music.
+
+I STILL did not get animations completely finished, but I hope this much is believable. I really wanted to shade the player object like how the enemy is, but I just did not have time.
+
+Another side note: enemies are space-inefficient because the image is copied and flipped inside the png file rather than called SDL to flip. The reason is because I use a special format to calculate frame area for images that involves an external file, and there are problems with the setup that I know how to fix but can't in time.
+
+I really hate the victory/death images, but I needed something ASAP.
+
+The Pizzazz feature that I added: I added lights. Nothing spectacular, but it provides a vool effect especially when you die. I chose NOT to software calculate the pixels because software rendering makes me sick. It's the GPU's job to do that. So, I just did a render-to-rexture of a prerendered light image, and mixed that with the surroundings to create the same effect (which should run much faster on hardware accelerated machines).
+
+This class was so much fun, and I learned so much while working on this project that I will SURELY use in the future. THANK YOU SO MUCH!!

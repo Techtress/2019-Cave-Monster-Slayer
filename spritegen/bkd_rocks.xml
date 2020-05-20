@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<backdropSet>
+  <floor4 frame="0" />
+  <floor2 frame="1" />
+  <slope_r2 frame="2" />
+  <slope_l2 frame="3" />
+  <slope_r4 frame="4" />
+  <slope_l4 frame="5" />
+  <slope4_r frame="6" />
+  <slope4_l frame="7" />
+  <wall4_r frame="8" />
+  <wall4_l frame="9" />
+  <wall2_l frame="10" />
+  <wall2_r frame="11" />
+  <wslope4_r frame="12" />
+  <wslope4_l frame="13" />
+</backdropSet>

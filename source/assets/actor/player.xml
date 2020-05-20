@@ -1,0 +1,70 @@
+<?xml version = "1.0"?>
+<actor>
+    
+    <attributes health="100" super="false" />
+    
+    <death />
+    
+    <!-- AnimationSet -->
+    <animset>
+        <image00 name="assets/actor/player.png" />
+        
+        <!-- Within animations, can set imageID to reflect the imageset -->
+        <!-- However, it defaults to '0' -->
+        <anim name="idle" speed="12" loop="true">
+            <direction id="right" frames="0" />
+            <direction id="left" frames="1" />
+        </anim>
+        <anim name="run" speed="12" loop="true">
+            <direction id="right" frames="2:7" />
+            <direction id="left" frames="8:13" />
+            <soundSet interval=".22">
+                <sound>foot1.wav</sound>
+                <sound>foot2.wav</sound>
+                <sound>foot3.wav</sound>
+                <sound>foot4.wav</sound>
+                <sound>foot5.wav</sound>
+            </soundSet>
+        </anim>
+        <anim name="jump" speed="9" loop="false">
+            <direction id="right" frames="14:15" />
+            <direction id="left" frames="16:17" />
+            <soundSet interval="-1">
+                <sound>jump1.wav</sound>
+                <sound>jump2.wav</sound>
+                <sound>jump3.wav</sound>
+            </soundSet>
+        </anim>
+        <anim name="fall" speed="6" loop="false">
+            <direction id="right" frames="18:19" />
+            <direction id="left" frames="20:21" />
+        </anim>
+        <anim name="attack" speed="24" loop="false">
+            <direction id="right" frames="22,22,23,23,24" />
+            <direction id="left" frames="25,25,26,26,27" />
+            <soundSet interval="-1">
+                <sound>sword_draw1.wav</sound>
+                <sound>sword_draw2.wav</sound>
+                <sound>sword_draw3.wav</sound>
+            </soundSet>
+        </anim>
+    </animset>
+    
+    <!-- ActorPhysics -->
+    <actorphysics width="60" height="175" fallFactor="1" jumpStrength="2100"
+                  groundSpeed="1200" groundAcc="20000" groundDec="10000"
+                  airSpeed="1400"    airAcc="7500"     airDec="2000" />
+    
+    <!-- AttackSet -->
+    <attackSet>
+        <ground1 animation="attack" type="melee" hitDelay=".2" >
+            <hitBox life=".1" radius="100" damage="3.0" impact="200" x="155" y="-135">
+                <soundSet interval="-1">
+                    <sound>slash1.wav</sound>
+                    <sound>slash2.wav</sound>
+                    <sound>slash3.wav</sound>
+                </soundSet>
+            </hitBox>
+        </ground1>
+    </attackSet>
+</actor>
